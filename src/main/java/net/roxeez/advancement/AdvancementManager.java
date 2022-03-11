@@ -2,7 +2,7 @@ package net.roxeez.advancement;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableList;
-import api.bottleofench.advancement.serialization.ObjectSerializer;
+import net.roxeez.advancement.serialization.ObjectSerializer;
 import org.bukkit.Bukkit;
 import org.bukkit.NamespacedKey;
 import org.bukkit.plugin.Plugin;

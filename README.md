@@ -2,9 +2,32 @@
 
 AdvancementAPI is library made to easily create Advancement for your server using built in Bukkit/Spigot API features.
 
-### Original by [Roxeez](https://github.com/Roxeez/AdvancementAPI)
+Original repository created by [Roxeez](https://github.com/Roxeez/AdvancementAPI).
 
-### Transited to Maven from Gradle
+Transited to Maven from Gradle.
+
+## Using
+
+**Add Jitpack repository to pom.xml:**
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+``` 
+
+**Then add this dependency to pom.xml:**
+```xml
+<dependencies>
+    <dependency>
+        <groupId>com.github.bottleofench</groupId>
+        <artifactId>AdvancementAPI</artifactId>
+        <version>59258e349c</version>
+    </dependency>
+</dependencies>
+``` 
 
 ## Example
 **Creating root advancement unlocked by collecting 3 cobblestone**

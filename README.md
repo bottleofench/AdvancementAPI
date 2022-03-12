@@ -6,7 +6,7 @@ Original repository created by [Roxeez](https://github.com/Roxeez/AdvancementAPI
 
 Transited to Maven from Gradle.
 
-## Using
+## How To Use
 
 **Add Jitpack repository to pom.xml:**
 ```xml

@@ -101,7 +101,7 @@ public class MyPlugin extends JavaPlugin {
         manager.register(new CobblestoneAdvancement());
         manager.register(new StonePickaxeAdvancement());
         
-        manager.createAll();
+        manager.createAll(true);
     }
 
 }

@@ -24,7 +24,7 @@ Transited to Maven from Gradle.
     <dependency>
         <groupId>com.github.bottleofench</groupId>
         <artifactId>AdvancementAPI</artifactId>
-        <version>59258e349c</version>
+        <version>25dbac183e</version>
     </dependency>
 </dependencies>
 ``` 

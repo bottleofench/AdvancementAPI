@@ -2,9 +2,11 @@
 
 AdvancementAPI is library made to easily create Advancement for your server using built in Bukkit/Spigot API features.
 
-Original repository created by [Roxeez](https://github.com/Roxeez/AdvancementAPI).
+This repository is a fork of AdvancementAPI by [Roxeez](https://github.com/Roxeez/AdvancementAPI).
 
-Transited to Maven from Gradle.
+### Changes compared to fork:
+- Transited to Maven from Gradle.
+- Fixed little bugs.
 
 ## How To Use
 

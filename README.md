@@ -4,7 +4,7 @@ AdvancementAPI is library made to easily create Advancement for your server usin
 
 This repository is a fork of AdvancementAPI by [Roxeez](https://github.com/Roxeez/AdvancementAPI).
 
-### Changes compared to fork:
+### Changes compared to original repository:
 - Transited to Maven from Gradle.
 - Fixed little bugs.
 
